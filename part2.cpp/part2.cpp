@@ -1,5 +1,4 @@
 //Vanshika Shah
-//31447294
 
 #include <iostream>
 #include <fstream>
